@@ -60,12 +60,21 @@ Los procesadores han ido evolucionando reduciendo el tamaño de sus transistores
 ---
 ## 6. Averías típicas y errores al elegirla o instalarla
 
-## 7. Fuentes
+* **Sobrecalentamiento (*Thermal Throttling*):** Causado por mala aplicación de pasta térmica o disipador insuficiente; la CPU reduce su velocidad para no quemarse.
+* **Incompatibilidad de Socket:** Intentar montar el procesador en una placa base con un conector físico o chipset no compatible (ej. LGA1700 vs AM5).
+* **Pines doblados:** Daño en las patillas del socket de la placa base al colocar o presionar mal la CPU durante el montaje.
+* **Cuello de botella:** Combinar un procesador muy potente con una tarjeta gráfica antigua (o viceversa), limitando el rendimiento global.
 
-1.
-2.
-3.
+---
+
+## 7. Fuentes
+* Ficha técnica del fabricante: [Intel ARK - i5-14600K](https://www.intel.com/content/www/us/en/products/sku/236799/intel-core-i5-processor-14600k-24m-cache-up-to-5-30-ghz/specifications.html)
+* Análisis de arquitecturas internas: [HardZone - Arquitectura Von Neumann](https://hardzone.es/tutoriales/rendimiento/von-neumann-limitaciones/)
+* Documentación de computación: [Wikipedia - Arquitectura de Von Neumann](https://es.wikipedia.org/wiki/Arquitectura_de_Von_Neumann)
+
+---
 
 ## Uso de IA
 
-Qué preguntamos a Jarvis u otra IA y cómo comprobamos sus respuestas.
+* **Qué preguntamos a la IA:** Consultamos el funcionamiento del ciclo de instrucción, la comparativa técnica CISC vs RISC y los valores de TDP/GHz en procesadores actuales.
+* **Cómo comprobamos sus respuestas:** Verificamos las especificaciones en la web oficial de Intel y contrastamos los conceptos teóricos con los apuntes y documentación del módulo.
