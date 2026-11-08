@@ -17,7 +17,7 @@ Unidad de Control (UC): Lee las instrucciones, las interpreta y coordina las ór
 Registros: Memorias internas ultra rápidas para almacenar datos al instante.
 
 
-![Esquema de funcionamiento](img/ejemplo-esquema.svg)
+![Esquema de funcionamiento](img/EJEMPLO_CPU.jfif)
 
 <!-- Guardad vuestras imágenes en img/ y cambiad el nombre del archivo en la línea de arriba. -->
 
