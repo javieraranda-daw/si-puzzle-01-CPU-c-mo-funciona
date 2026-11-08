@@ -5,8 +5,17 @@
 > Máximo 2 folios por las dos caras (unas 1.600–2.000 palabras) y al menos 3 imágenes en `img/`.
 
 ## 1. Qué es y qué función cumple en el sistema
+La CPU es el procesador principal del ordenador, el «cerebro» del equipo. Se encarga de interpretar y ejecutar las instrucciones de los programas y del sistema operativo realizando cálculos y operaciones lógicas. Además, coordina el resto de componentes (RAM, almacenamiento, gráfica) para que el sistema funcione en equipo.
 
 ## 2. Cómo funciona por dentro
+Las CPU actuales usan la arquitectura Von Neumann, guardando datos e instrucciones en la misma memoria. Sus partes principales son:
+
+ALU (Unidad Aritméticológica): Realiza las operaciones matemáticas y lógicas.
+
+Unidad de Control (UC): Lee las instrucciones, las interpreta y coordina las órdenes.
+
+Registros: Memorias internas ultra rápidas para almacenar datos al instante.
+
 
 ![Esquema de funcionamiento](img/ejemplo-esquema.svg)
 
