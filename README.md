@@ -35,6 +35,15 @@ Registros: Memorias internas ultra rápidas para almacenar datos al instante.
 
 ## 4. Tipos, evolución y estándares actuales
 
+Los procesadores han ido evolucionando reduciendo el tamaño de sus transistores para integrar más núcleos y consumir menos energía. En la actualidad destacan dos conjuntos de instrucciones principales:
+
+* **CISC (Arquitectura x86):** Usa instrucciones complejas para resolver operaciones en pocos pasos. Es el estándar en ordenadores de sobremesa y portátiles de rendimiento (Intel y AMD).
+* **RISC (Arquitectura ARM):** Usa instrucciones simples de un solo ciclo para optimizar la eficiencia. Es el estándar en smartphones, tablets y portátiles de bajo consumo (Apple Silicon, Qualcomm).
+
+![Evolución de CPU y comparativa CISC vs RISC](img/apartado4.jfif)
+
+---
+
 ## 5. Un modelo real: ficha técnica interpretada
 
 **Modelo:** Marca Modelo (enlace a la ficha del fabricante)
