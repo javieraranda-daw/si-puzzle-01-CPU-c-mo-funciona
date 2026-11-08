@@ -1,6 +1,6 @@
 # Puzzle UT2 · Pieza NN: Nombre de la pieza
 
-**Grupo:** Javier Aranda Vargas (@javieraranda-daw) · Nombre Apellido (@usuario)
+**Grupo:** Javier Aranda Vargas (@javieraranda-daw) · Saul Ovalles Da Costa (@saulovalles)
 
 > Máximo 2 folios por las dos caras (unas 1.600–2.000 palabras) y al menos 3 imágenes en `img/`.
 
