@@ -24,7 +24,14 @@ Registros: Memorias internas ultra rápidas para almacenar datos al instante.
 ## 3. Características, unidades y cómo se miden
 
 | Característica | Unidad | Valores típicos hoy | Qué significa |
-|---|---|---|---|
+| :--- | :--- | :--- | :--- |
+| **Frecuencia de reloj** | GHz | 3.5 a 5.5 GHz | Número de ciclos por segundo; indica la velocidad de procesamiento. |
+| **Núcleos (*Cores*)** | Unidades | 6 a 14 núcleos | Procesadores independientes dentro del chip para ejecutar multitarea real. |
+| **Hilos (*Threads*)** | Unidades | 12 a 20 hilos | Vías de trabajo virtuales que optimizan el rendimiento por núcleo. |
+| **Memoria Caché (L3)** | MB | 24 a 32 MB | Memoria ultrarrápida integrada que evita accesos lentos a la RAM. |
+| **TDP (Consumo/Calor)** | Vatios (W) | 65W a 180W | Potencia térmica de diseño; determina el sistema de refrigeración necesario. |
+
+---
 
 ## 4. Tipos, evolución y estándares actuales
 
