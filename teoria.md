@@ -1,6 +1,6 @@
 # Teoría · Pieza NN: Nombre de la pieza
 
-**Grupo:** Nombre Apellido · Nombre Apellido
+**Grupo:** Javier Aranda · Saul Ovalles
 
 > Máximo 1 folio por las dos caras. Es lo que estudiará toda la clase para el test: claro, exacto y sin relleno.
 
