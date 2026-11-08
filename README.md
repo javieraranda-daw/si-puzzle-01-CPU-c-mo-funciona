@@ -46,13 +46,18 @@ Los procesadores han ido evolucionando reduciendo el tamaño de sus transistores
 
 ## 5. Un modelo real: ficha técnica interpretada
 
-**Modelo:** Marca Modelo (enlace a la ficha del fabricante)
+**Modelo:** [Intel Core i5-14600K](https://www.intel.com/content/www/us/en/products/sku/236799/intel-core-i5-processor-14600k-24m-cache-up-to-5-30-ghz/specifications.html)
 
 | Dato de la ficha | Qué significa | ¿Es bueno? ¿Para qué uso? |
-|---|---|---|
+| :--- | :--- | :--- |
+| **14 núcleos (6 P-Cores + 8 E-Cores)** | 6 núcleos de alto rendimiento y 8 eficientes para tareas secundarias. | **Muy bueno.** Excelente para juegos exigentes, edición de vídeo y multitarea. |
+| **5.30 GHz Turbo** | Velocidad máxima alcanzable bajo máxima carga de trabajo. | **Excelente.** Garantiza fluidez en aplicaciones y juegos monohilo. |
+| **24 MB Caché Smart** | Memoria rápida intermedia entre CPU y RAM. | **Adecuado.** Evita cuellos de botella en la transferencia de datos. |
+| **TDP 125W (Turbo 181W)** | Consumo energético y calor generado a máxima capacidad. | **Alto.** Exige instalar una refrigeración líquida o disipador de gama media-alta. |
 
-<!-- Aquí va la foto o captura del modelo: ![Foto del modelo](img/modelo.jpg) -->
+![Ficha técnica interpretada del Intel Core i5-14600K](img/i5.jfif)
 
+---
 ## 6. Averías típicas y errores al elegirla o instalarla
 
 ## 7. Fuentes
